@@ -1,0 +1,9 @@
+{
+  "learn_length_scale": true,
+  "points_per_unit": 64,
+  "num_points": 256,
+  "latent_dim": 128,
+  "level": 3,
+  "smooth": 1.0,
+  "wave_gate_init": -3.0
+}

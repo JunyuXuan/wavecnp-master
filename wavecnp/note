@@ -1,0 +1,10 @@
+1. generate tasks with different resolutions
+
+3. h is two dimensional [1 y], how to handle dwt?
+
+--- vector-valued wavelet transform
+--- parameterization of vector-valued wavelet transform
+--- lifting vector-valued wavelet transform
+
+
+try running codes on GPU with large number of epochs

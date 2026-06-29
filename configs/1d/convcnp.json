@@ -1,0 +1,6 @@
+{
+  "learn_length_scale": true,
+  "points_per_unit": 64,
+  "num_points": 256,
+  "latent_dim": 128
+}

@@ -1,0 +1,19 @@
+{
+  "convcnp2": {
+    "conv_kernel_size": 11,
+    "cnn_n_conv_layers": 1,
+    "cnn_n_blocks": 3,
+    "cnn_kernel_size": 11
+  },
+  "wavecnp2": {
+    "conv_kernel_size": 11,
+    "cnn_n_conv_layers": 1,
+    "cnn_n_blocks": 3,
+    "cnn_kernel_size": 11,
+    "level": 3,
+    "smooth": 1.0,
+    "wavelet": "db2",
+    "wavelet_filter_length": 4,
+    "wavelet_mode": "zero"
+  }
+}
